@@ -4,11 +4,11 @@
 **[Leer en español »](README.es.md)**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-5C4A99?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Claude%20Code-6E6E6E?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <a href="https://github.com/augustosander24/automated-bank-ledger-reconciliation"><img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/augustosander24/nexcore-ar-analytics"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
+  <a href="https://github.com/augustosander24/nexcore-ar-analytics"><img src="https://img.shields.io/badge/Power%20BI-5C4A99?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /></a>
+  <a href="https://github.com/augustosander24/MedSupplyCo_AP_Intelligence_Hub"><img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /></a>
+  <a href="#how-i-build"><img src="https://img.shields.io/badge/Claude%20Code-6E6E6E?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
 </p>
 
 18 years of U.S. accounts payable taught me how finance processes actually work. Now I automate them — using Python, SQL, and AI-assisted development to build auditable finance tooling.

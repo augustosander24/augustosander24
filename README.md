@@ -1,13 +1,5 @@
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/augustosander24/augustosander24/main/assets/logo.png" width="140" alt="Logo" /></td>
-<td align="center" width="100%">
-<h1>Augusto Sander</h1>
-<em>“Every number traceable. Every pipeline reproducible.”</em><br/>
-Finance Operations · Process Automation · AI-Assisted Development · Montevideo, Uruguay
-</td>
-</tr>
-</table>
+<h1 align="center">Augusto Sander</h1>
+<p align="center">Finance Operations · Process Automation · AI-Assisted Development · Montevideo, Uruguay</p>
 
 **[Leer en español »](README.es.md)**
 
@@ -20,6 +12,8 @@ Finance Operations · Process Automation · AI-Assisted Development · Montevide
 </p>
 
 18 years of U.S. accounts payable taught me how finance processes actually work. Now I automate them — using Python, SQL, and AI-assisted development to build auditable finance tooling.
+
+<p align="center"><strong><em>“Every number traceable. Every pipeline reproducible.”</em></strong></p>
 
 ---
 

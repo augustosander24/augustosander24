@@ -1,13 +1,5 @@
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/augustosander24/augustosander24/main/assets/logo.png" width="140" alt="Logo" /></td>
-<td align="center" width="100%">
-<h1>Augusto Sander</h1>
-<em>“Cada número trazable. Cada pipeline reproducible.”</em><br/>
-Operaciones Financieras · Automatización de Procesos · Desarrollo Asistido por IA · Montevideo, Uruguay
-</td>
-</tr>
-</table>
+<h1 align="center">Augusto Sander</h1>
+<p align="center">Operaciones Financieras · Automatización de Procesos · Desarrollo Asistido por IA · Montevideo, Uruguay</p>
 
 **[Read in English »](README.md)**
 
@@ -20,6 +12,8 @@ Operaciones Financieras · Automatización de Procesos · Desarrollo Asistido po
 </p>
 
 18 años de cuentas por pagar en EE.UU. me enseñaron cómo funcionan los procesos financieros. Hoy los automatizo — con Python, SQL y desarrollo asistido por IA para construir herramientas financieras auditables.
+
+<p align="center"><strong><em>“Cada número trazable. Cada pipeline reproducible.”</em></strong></p>
 
 ---
 

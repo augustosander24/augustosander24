@@ -1,18 +1,15 @@
 <table>
 <tr>
-<td><img src="assets/logo.png" width="140" alt="Logo" /></td>
+<td><img src="https://raw.githubusercontent.com/augustosander24/augustosander24/main/assets/logo.png" width="140" alt="Logo" /></td>
 <td align="center" width="100%">
 <h1>Augusto Sander</h1>
+<em>“Every number traceable. Every pipeline reproducible.”</em><br/>
 Finance Operations · Process Automation · AI-Assisted Development · Montevideo, Uruguay
 </td>
 </tr>
 </table>
 
 **[Leer en español »](README.es.md)**
-
-<p align="center">
-  <em>“Every number traceable. Every pipeline reproducible.”</em>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Python" />

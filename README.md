@@ -8,6 +8,7 @@
   <a href="https://github.com/augustosander24/nexcore-ar-analytics"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
   <a href="https://github.com/augustosander24/nexcore-ar-analytics"><img src="https://img.shields.io/badge/Power%20BI-5C4A99?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /></a>
   <a href="https://github.com/augustosander24/MedSupplyCo_AP_Intelligence_Hub"><img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /></a>
+  <a href="https://github.com/augustosander24/ap-invoice-copilot"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" /></a>
   <a href="#how-i-build"><img src="https://img.shields.io/badge/Claude%20Code-6E6E6E?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
 </p>
 
@@ -28,6 +29,7 @@
 
 | Project | Stack | Result |
 |---|---|---|
+| [AP Invoice Copilot](https://github.com/augustosander24/ap-invoice-copilot) | Python · LangGraph · Ollama | AP exception workflow: AI investigates, code decides, a human approves |
 | [Nexcore AR Analytics](https://github.com/augustosander24/nexcore-ar-analytics) | SQL · Power BI | 8 SQL modules, every dashboard KPI validated against SQL benchmarks |
 | [Automated Bank-to-Ledger Reconciliation](https://github.com/augustosander24/automated-bank-ledger-reconciliation) | Python | 6-rule matching engine, 7 exception categories, $0 net variance |
 | [AP Management Dashboard](https://github.com/augustosander24/ap-management-dashboard) | Python · SQL · Excel | ERP-style data to KPI reporting, Pareto spend analysis |

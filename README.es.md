@@ -12,7 +12,7 @@
   <a href="#cómo-construyo"><img src="https://img.shields.io/badge/Claude%20Code-6E6E6E?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
 </p>
 
-18 años de cuentas por pagar en EE.UU. me enseñaron cómo funcionan los procesos financieros. Hoy los automatizo — con Python, SQL y desarrollo asistido por IA para construir herramientas financieras auditables.
+18 años de cuentas por pagar en EE.UU. me enseñaron cómo funcionan los procesos financieros. Hoy los automatizo — con Python, SQL, agentes de IA y desarrollo asistido por IA para construir herramientas financieras auditables.
 
 <p align="center"><strong><em>“Cada número trazable. Cada pipeline reproducible.”</em></strong></p>
 
@@ -29,7 +29,7 @@
 
 | Proyecto | Stack | Resultado |
 |---|---|---|
-| [AP Invoice Copilot](https://github.com/augustosander24/ap-invoice-copilot) | Python · LangGraph · Ollama | Flujo de Cuentas por Pagar: la IA investiga, el código decide, una persona aprueba |
+| [AP Invoice Copilot](https://github.com/augustosander24/ap-invoice-copilot) | Python · LangGraph | Flujo de Cuentas por Pagar: la IA investiga, el código decide, una persona aprueba |
 | [Nexcore AR Analytics](https://github.com/augustosander24/nexcore-ar-analytics) | SQL · Power BI | 8 módulos SQL, cada KPI del dashboard validado contra benchmarks SQL |
 | [Automated Bank-to-Ledger Reconciliation](https://github.com/augustosander24/automated-bank-ledger-reconciliation) | Python | Motor de conciliación de 6 reglas, 7 categorías de excepción, variación neta de $0 |
 | [AP Management Dashboard](https://github.com/augustosander24/ap-management-dashboard) | Python · SQL · Excel | Datos tipo ERP convertidos en reportes de KPI, análisis de gasto Pareto |

@@ -12,7 +12,7 @@
   <a href="#how-i-build"><img src="https://img.shields.io/badge/Claude%20Code-6E6E6E?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
 </p>
 
-18 years of U.S. accounts payable taught me how finance processes actually work. Now I automate them — using Python, SQL, and AI-assisted development to build auditable finance tooling.
+18 years of U.S. accounts payable taught me how finance processes actually work. Now I automate them — using Python, SQL, AI agents, and AI-assisted development to build auditable finance tooling.
 
 <p align="center"><strong><em>“Every number traceable. Every pipeline reproducible.”</em></strong></p>
 
@@ -29,7 +29,7 @@
 
 | Project | Stack | Result |
 |---|---|---|
-| [AP Invoice Copilot](https://github.com/augustosander24/ap-invoice-copilot) | Python · LangGraph · Ollama | AP exception workflow: AI investigates, code decides, a human approves |
+| [AP Invoice Copilot](https://github.com/augustosander24/ap-invoice-copilot) | Python · LangGraph | AP exception workflow: AI investigates, code decides, a human approves |
 | [Nexcore AR Analytics](https://github.com/augustosander24/nexcore-ar-analytics) | SQL · Power BI | 8 SQL modules, every dashboard KPI validated against SQL benchmarks |
 | [Automated Bank-to-Ledger Reconciliation](https://github.com/augustosander24/automated-bank-ledger-reconciliation) | Python | 6-rule matching engine, 7 exception categories, $0 net variance |
 | [AP Management Dashboard](https://github.com/augustosander24/ap-management-dashboard) | Python · SQL · Excel | ERP-style data to KPI reporting, Pareto spend analysis |
